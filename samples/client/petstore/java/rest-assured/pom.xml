@@ -245,7 +245,7 @@
         <gson-fire-version>1.8.2</gson-fire-version>
         <maven-plugin-version>1.0.0</maven-plugin-version>
         <threetenbp-version>1.4.1</threetenbp-version>
-        <okio-version>1.13.0</okio-version>
+        <okio-version>1.17.6</okio-version>
         <junit-version>4.13.1</junit-version>
     </properties>
 </project>
